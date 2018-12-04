@@ -1,3 +1,8 @@
 12-1-18   Created Github Repo
 
 12-1-18   Set up Surge Deployment https://nauseating-selection.surge.sh
+
+
+12-3-18 -- 07:30am  Project completed, Deployed for final time, going to wait until tomorrow to push final time to Github.
+
+12-4-18 -- 5:10am  Final push to Github
